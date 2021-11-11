@@ -1,0 +1,22 @@
+Package: iotc.core.gis.maps
+Type: Package
+Title: IOTC core map plotting utilities
+Version: 0.2.0
+Author: Fabio Fiorellato <fabio.fiorellato@fao.org>
+Maintainer: Fabio Fiorellato <fabio.fiorellato@fao.org>
+Description: Provides convenience methods to plot a "standard" map of the IO 
+    with additional superimposed layers such as grids, high seas, EEZs etc. 
+License: Private
+Encoding: UTF-8
+LazyData: true
+Depends:
+  colorspace,
+  maps,
+  mapdata,
+  maptools,
+  mapplots,
+  ggplot2,
+  ggthemes,
+  graphics,
+  iotc.core.gis.wkt
+RoxygenNote: 7.1.1
