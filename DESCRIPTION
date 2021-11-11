@@ -1,7 +1,7 @@
 Package: iotc.core.gis.maps
 Type: Package
 Title: IOTC core map plotting utilities
-Version: 0.2.0
+Version: 0.2.1
 Author: Fabio Fiorellato <fabio.fiorellato@fao.org>
 Maintainer: Fabio Fiorellato <fabio.fiorellato@fao.org>
 Description: Provides convenience methods to plot a "standard" map of the IO 
