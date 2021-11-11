@@ -18,5 +18,5 @@ Depends:
   ggplot2,
   ggthemes,
   graphics,
-  iotc.core.gis.wkt
+  iotc.core.gis.wkt (>= 0.2.0)
 RoxygenNote: 7.1.1
