@@ -13,7 +13,6 @@ Depends:
   colorspace,
   maps,
   mapdata,
-  maptools,
   mapplots,
   ggplot2,
   ggthemes,
